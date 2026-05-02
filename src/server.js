@@ -20,6 +20,7 @@ const allowedOrigins = [
   "http://localhost:5500",
   "http://127.0.0.1:5500",
   // GitHub Pages frontend:
+  "https://marvin2704.github.io/hnd_frontend_v2",
   "https://marvin2704.github.io",
   "https://mavenpatel.github.io",
   // Add your custom domain if you have one:
